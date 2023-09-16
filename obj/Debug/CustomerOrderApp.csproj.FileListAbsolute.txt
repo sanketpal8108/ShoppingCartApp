@@ -1,0 +1,8 @@
+D:\Swabhav_Csharp\Day18\CustomerOrderApp\bin\Debug\CustomerOrderApp.exe.config
+D:\Swabhav_Csharp\Day18\CustomerOrderApp\bin\Debug\CustomerOrderApp.exe
+D:\Swabhav_Csharp\Day18\CustomerOrderApp\bin\Debug\CustomerOrderApp.pdb
+D:\Swabhav_Csharp\Day18\CustomerOrderApp\obj\Debug\CustomerOrderApp.csproj.AssemblyReference.cache
+D:\Swabhav_Csharp\Day18\CustomerOrderApp\obj\Debug\CustomerOrderApp.csproj.SuggestedBindingRedirects.cache
+D:\Swabhav_Csharp\Day18\CustomerOrderApp\obj\Debug\CustomerOrderApp.csproj.CoreCompileInputs.cache
+D:\Swabhav_Csharp\Day18\CustomerOrderApp\obj\Debug\CustomerOrderApp.exe
+D:\Swabhav_Csharp\Day18\CustomerOrderApp\obj\Debug\CustomerOrderApp.pdb
